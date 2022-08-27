@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621980740387",
+    "project_id": "learn-react-d7546",
+    "storage_bucket": "learn-react-d7546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621980740387:android:037912cfe0854c0583fa96",
+        "android_client_info": {
+          "package_name": "com.learn_hooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621980740387-104cqv53ho54i7kq9t07umijhfenh56b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0skBfmcoEdwBiti9jsN3KjxO1Oqyn9UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621980740387-104cqv53ho54i7kq9t07umijhfenh56b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
